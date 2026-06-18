@@ -1,0 +1,18 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+h1{
+    color: blue;
+}
+p{
+    font-size: 18px;
+    color: aqua;
+}
+h2{
+    color: brown;
+}
+ul{
+    background-color:lightgrey;
+    padding: 15px;
+}
